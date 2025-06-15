@@ -4,6 +4,8 @@ This repository contains Python scripts related to Field-Effect Transistor (FET)
 
 ## 📁 Contents
 
+- `main_script.py` – Core Python script for building and simulating the device.
+
 # Monolayer PtSe₂ MOSFET Simulation
 
 This repository contains simulation scripts for a monolayer PtSe₂ MOSFET with the following specifications:
