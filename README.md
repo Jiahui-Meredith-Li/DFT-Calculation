@@ -27,3 +27,7 @@ This repository contains simulation scripts for a monolayer PtSe₂ SBFET with t
 - **Matel electrode**: Monolayer Sc₂N(OH)₂
 
 These scripts are designed to assist in first-principles (DFT-based) simulations of transport properties using FET configurations.
+
+# VdW heterostructure WSi₂N₄/Graphene Simulation with different interface distances and external electrical fields
+
+
