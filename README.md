@@ -1,3 +1,16 @@
 # FET Calculation Scripts
 
 This repository contains Python scripts related to Field-Effect Transistor (FET) simulations using first-principles DFT and NEGF methods.
+
+## 📁 Contents
+
+# Monolayer PtSe₂ MOSFET Simulation
+
+This repository contains simulation scripts for a monolayer PtSe₂ MOSFET with the following specifications:
+
+- **Gate length**: 5 nm  
+- **Underlap**: 1 nm  
+- **Transport direction**: Zigzag  
+- **Material**: Monolayer PtSe₂
+
+These scripts are designed to assist in first-principles (DFT-based) simulations of transport properties using FET configurations.
