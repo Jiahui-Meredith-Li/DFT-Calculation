@@ -30,4 +30,5 @@ These scripts are designed to assist in first-principles (DFT-based) simulations
 
 # VdW heterostructure WSi₂N₄/Graphene Simulation with different interface distances and external electrical fields
 
-
+- **Ab initio molecule dynasmics**
+- **Phonon structure**
